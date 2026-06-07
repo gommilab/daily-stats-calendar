@@ -2,7 +2,7 @@
 
 **나를 보는 캘린더** - 하루의 짧은 기록을 따뜻한 한 문장으로 정리해주는 서비스
 
-[![GitHub Pages](https://img.shields.io/badge/Live-GitHub%20Pages-success)](https://hopeman-ai.github.io/daily-stats-calendar/)
+[![GitHub Pages](https://img.shields.io/badge/Live-GitHub%20Pages-success)](https://gommilab.github.io/daily-stats-calendar/)
 
 ## ✨ 주요 기능
 
@@ -36,11 +36,11 @@
 ## 🚀 사용 방법
 
 ### 온라인에서 바로 사용
-**👉 [https://hopeman-ai.github.io/daily-stats-calendar/](https://hopeman-ai.github.io/daily-stats-calendar/)**
+**👉 [https://gommilab.github.io/daily-stats-calendar/](https://gommilab.github.io/daily-stats-calendar/)**
 
 ### 로컬에서 사용
 ```bash
-git clone https://github.com/hopeman-ai/daily-stats-calendar.git
+git clone https://github.com/gommilab/daily-stats-calendar.git
 ```
 그 후 `index.html` 파일을 브라우저에서 열기
 
